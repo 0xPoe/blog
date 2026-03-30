@@ -65,11 +65,6 @@ url = "presentations/"
 weight = 2
 
 [[languages.en.menu.main]]
-name = "Logs"
-url = "logs/"
-weight = 3
-
-[[languages.en.menu.main]]
 name = "About"
 url = "about"
 weight = 4
