@@ -2,7 +2,7 @@
 title: 'About Me'
 ---
 
-👋 My name is Dongpo Liu and I’m a passionate software engineer who specializes in distributed systems and dev tools.
+👋 My name is Dongpo Liu and I’m a passionate software engineer who specializes in distributed systems and Rust.
 
 As a software engineer at [PingCAP], my main focus is on enhancing [TiDB], which is an open-source distributed SQL database. I am also a core maintainer of [TiCDC], which is a Change Data Capture (CDC) system for [TiDB].
 
